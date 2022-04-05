@@ -1,3 +1,11 @@
 body{
     background-color: black;
 }
+
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    color: blue;
+    box-shadow: 0in;
+}
